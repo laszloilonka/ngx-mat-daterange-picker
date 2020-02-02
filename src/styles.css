@@ -23,7 +23,7 @@
     color: #53b53f;
     user-select: none;
 }
-@media only screen and (max-width:478px){
+@media only screen and (max-width:478px) {
     .ngx-mat-drp-calendar-container {
         display: inline!important;
     }
@@ -46,7 +46,7 @@
     }
 }
 
-@media only screen and (max-width: 768px) and (min-width: 479px){
+@media only screen and (max-width: 768px) and (min-width: 479px) {
     .ngx-mat-drp-calendar-container{
       display: block!important;
       min-width: 250px!important;
@@ -71,9 +71,8 @@
   }
 }
 
-@media only screen and (min-width:689px){
-    .cdk-overlay-pane{
+@media only screen and (min-width:689px) {
+    .cdk-overlay-pane {
     min-height: max-content!important;
-  }
-} 	
+  }	
 }
